@@ -212,7 +212,7 @@ Possible enhancements include:
 
 ## 👩‍💻 Author
 
-**Shana Parveen**
+**Shana Parveen KT**
 
 Data Science Student  
 Passionate about **Mathematics, Data Science, and Machine Learning**
